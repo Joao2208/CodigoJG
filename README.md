@@ -1,2 +1,2 @@
 # CodigoJG2
- Primeiro  repositorio versionado
+ Primeiro repositorio versionado ok ?
