@@ -1,5 +1,5 @@
 # CodigoJG2
- Primeiro repositorio versionado ok ?
+ Primeiro repositorio versionado
  
- Continuo alterando pra testar!
+ Aprendendo a criar repositorios!
  
