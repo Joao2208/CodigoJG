@@ -1,4 +1,4 @@
-# CodigoJG2
+# CodigoJG
  Primeiro repositorio versionado
  
  Aprendendo a criar repositorios!
